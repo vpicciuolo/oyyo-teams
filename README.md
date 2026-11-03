@@ -4,7 +4,7 @@
 
 ### Bring the right specialists together around one goal.
 
-**7 built-in workflow groups · 200 available roles · Reusable team profiles**
+**7 built-in workflow groups · 50 specialist team presets · 536 available roles · Reusable team profiles**
 
 **Available for private demos and private beta. [Request early access](https://oyyo.one/contact).**
 
@@ -25,6 +25,10 @@ Teams coordinate specialist contributions, review and a usable final result. The
 | [Engineering team](teams/engineering.md) | Technical planner → Engineer → QA reviewer → Editor |
 | [Research team](teams/research.md) | Research planner → Research analyst → Evidence checker → Editor |
 | [Operations team](teams/operations.md) | Operations planner → Operations specialist → Operations reviewer → Editor |
+
+## Specialist team presets
+
+Browse [all 50 specialised team presets](docs/SPECIALIST-TEAMS.md). A compatible workspace can sync these independently and save a selected preset as a private editable team. Existing saved configurations are preserved.
 
 ## What you can configure
 
@@ -56,9 +60,9 @@ Simple requests can remain direct. The displayed execution plan is the authority
 | Repository | Discover |
 | --- | --- |
 | [OYYO Models](https://github.com/vpicciuolo/oyyo-models) | Model lineup, specializations, requirements and capability guides |
-| [OYYO Agents](https://github.com/vpicciuolo/oyyo-agents) | All 200 workspace agent roles, department coverage and specialist functions |
+| [OYYO Agents](https://github.com/vpicciuolo/oyyo-agents) | All 536 workspace agent roles, department coverage and specialist functions |
 | [OYYO Teams](https://github.com/vpicciuolo/oyyo-teams) | Seven built-in workflow groups, collaboration, review and reusable configurations |
-| [OYYO Task Library](https://github.com/vpicciuolo/oyyo-task-library) | 1,025 guided tasks, specialist briefs and 204 creative style options |
+| [OYYO Task Library](https://github.com/vpicciuolo/oyyo-task-library) | 1,361 guided tasks, specialist briefs and 204 creative style options |
 | [OYYO Benchmark](https://github.com/vpicciuolo/oyyo-benchmark) | Evaluation methodology, qualification and reproducibility |
 | [OYYO SDK](https://github.com/vpicciuolo/oyyo-sdk) | Developer interfaces and integration documentation |
 
@@ -69,3 +73,8 @@ OYYO is a proprietary AI workspace combining task understanding, model routing, 
 **Available for private demos and private beta. [Request early access](https://oyyo.one/contact).**
 
 **Copyright © 2026 OYYO · HRN INNOVATION TECHNOLOGIES LTD. All rights reserved.**
+
+## Main OYYO documentation
+
+[OYYO ONE AI documentation hub](https://github.com/vpicciuolo/oyyo-one-ai) · [OYYO website](https://oyyo.one) · [Exclusive preview](https://oyyo.one/contact)
+
